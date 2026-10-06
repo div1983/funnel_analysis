@@ -12,14 +12,6 @@ This is a **portfolio practice project using synthetic data**. It is not based o
 
 ---
 
-## Dashboard Preview
-
-![E-commerce Funnel Dashboard](assets/ecommerce-funnel-dashboard.png)
-
-The dashboard is currently built in **Microsoft Excel**. I kept the design relatively simple because the focus of the project is on the analysis and the business decisions behind the numbers rather than visual decoration.
-
----
-
 ## Dataset
 
 ### What type of data am I working with?
@@ -51,13 +43,6 @@ The funnel metrics are sequential, meaning the number of users generally decreas
 
 ---
 
-## Raw Data Preview
-
-![Raw Dataset Preview](assets/raw-dataset-preview.png)
-
-The screenshot above shows the structure of the working dataset. In the actual Excel workbook, the full 12-week dataset is used for the calculations and dashboard.
-
----
 
 # Business Questions
 
@@ -185,8 +170,6 @@ The channel-level results currently look like this:
 
 ## Chart: Conversion Rate by Channel
 
-![Conversion Rate by Channel](assets/ecommerce-funnel-dashboard.png)
-
 ### Why did I choose a column/bar chart here?
 
 A bar/column chart works well because the main purpose is **comparison between independent categories**. I want the difference between channels to be visible immediately.
@@ -235,9 +218,6 @@ Again, these are hypotheses rather than conclusions because the current dataset 
 
 ---
 
-# Funnel Chart
-
-![Funnel Dashboard](assets/ecommerce-funnel-dashboard.png)
 
 ### Why did I choose a horizontal bar chart for the funnel stages?
 
