@@ -361,28 +361,6 @@ If I were working with this data in an actual e-commerce business, I would exten
 
 The next version of this project can move the data preparation into **SQL** and the reporting layer into **Power BI**, while keeping the same business questions and analytical logic.
 
----
-
-# Project Structure
-
-A simple repository structure for this project is:
-
-```text
-ecommerce-funnel-analysis/
-│
-├── README.md
-├── data/
-│   └── ecommerce_funnel_12_week_sample.xlsx
-│
-├── dashboard/
-│   └── ecommerce_funnel_dashboard.xlsx
-│
-└── assets/
-    ├── ecommerce-funnel-dashboard.png
-    └── raw-dataset-preview.png
-```
-
-The Excel workbook contains the working calculations and dashboard, while this README explains the business problem, analytical process, chart choices and conclusions.
 
 ---
 
